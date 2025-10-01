@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-r-vanave)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/shubham-r-vanave](https://www.linkedin.com/in/shubham-r-vanave-a25215219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
  
