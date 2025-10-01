@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Vanave  
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&width=500&…
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&width=500&…](https://www.google.com/search?q=%5B!%5BTyping+SVG%5D(https%3A%2F%2Freadme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3DF74780%26width%3D500%26%E2%80%A6&oq=%5B!%5BTyping+SVG%5D(https%3A%2F%2Freadme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3DF74780%26width%3D500%26%E2%80%A6&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBBzMwMWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
  
 🚀 **Windchill PLM Developer | Java | Customization | Workflows | UI/UX | Integrations**  
  
